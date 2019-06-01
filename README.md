@@ -1,0 +1,1 @@
+Through this app, you can view any documnets online without downloading it. You can also share the link via google chrome or any other browser to the app directly.File size limit is < 25 MB as it is using Google Docs Viewer(file size limit as mentioned by it). UI changes and addition of functionality to the app are most welcome.
